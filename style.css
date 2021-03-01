@@ -1,0 +1,26 @@
+body{
+  background-color: #74A235;
+}
+div{
+  padding-bottom: 100px;
+
+}
+h1{
+  display: flex;
+  justify-content: center;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+.smaller{
+  background-color: #BDD01A;
+  padding-bottom: 200px;
+}
+.text{
+display: flex;
+justify-content: center;
+padding-top: 20px;
+padding-left: 500px;
+padding-right: 500px;
+font-size: 30px;
+font-family: sans-serif;
+}
